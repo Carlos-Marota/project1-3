@@ -1,0 +1,16 @@
+body {background-color: lightcoral;
+        font-family: =cursive}
+
+header {background-color:lightblue;
+}
+
+h1{color:lavender}
+nav > ul {line-height: 2em;
+        list-style-type: none;
+        padding-left:5px;}
+
+section {background-color:limegreen;
+        width:75%;
+        font-size: 1.2em;}
+
+footer {background-color:antiquewhite;}
